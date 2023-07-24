@@ -1,5 +1,7 @@
 # WTrack App Front-End
 
+[![Personal Expense Tracker Demo: Next.js, Strapi, Koa.js, and Postgres](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=YS_ghUMM_hY "Personal Expense Tracker Demo: Next.js, Strapi, Koa.js, and Postgres")
+
 ## Functionality
 
 - [x] Transaction Tracking Management
